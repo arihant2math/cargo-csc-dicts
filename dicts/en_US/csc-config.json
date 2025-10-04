@@ -5,6 +5,8 @@
         "src/hyphenated-words.txt",
         "src/contractions-and-possessives.txt",
         "src/acronyms.txt",
-        "src/additional_words.txt"
+        "src/common.txt",
+        "src/additional_words.txt",
+        "src/en_US.txt"
     ]
 }
