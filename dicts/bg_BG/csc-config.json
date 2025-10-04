@@ -1,0 +1,7 @@
+{
+    "name": "Bulgarian",
+    "description": "Bulgarian dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

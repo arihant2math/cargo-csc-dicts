@@ -1,0 +1,7 @@
+{
+    "name": "Modern English Slang Words",
+    "description": "Modern English slang words dictionary.",
+    "paths": [
+        "src/en-slang.txt"
+    ]
+}

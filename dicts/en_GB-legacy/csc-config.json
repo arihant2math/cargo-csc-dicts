@@ -1,0 +1,7 @@
+{
+    "name": "English - British (Legacy)",
+    "description": "British English Dictionary (Legacy)",
+    "paths": [
+        "src/wordsEnGb.txt"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Lorem-ipsum",
+    "description": "Lorem-ipsum dictionary.",
+    "paths": [
+        "src/dictionary.txt"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Svelte",
+    "description": "Svelte dictionary.",
+    "paths": [
+        "src/svelte.txt"
+    ]
+}

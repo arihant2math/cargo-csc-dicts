@@ -1,0 +1,8 @@
+{
+    "name": "Latvian",
+    "description": "Latvian dictionary.",
+    "paths": [
+        "src/lv.txt",
+        "src/additional_words.txt"
+    ]
+}

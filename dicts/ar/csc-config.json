@@ -1,0 +1,7 @@
+{
+    "name": "Arabic",
+    "description": "Arabic dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

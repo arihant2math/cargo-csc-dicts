@@ -1,0 +1,7 @@
+{
+    "name": "English - Canadian",
+    "description": "Canadian English Dictionary",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

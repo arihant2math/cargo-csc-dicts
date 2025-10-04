@@ -1,0 +1,7 @@
+{
+    "name": "Docker",
+    "description": "Docker dictionary.",
+    "paths": [
+        "src/docker-words.txt"
+    ]
+}

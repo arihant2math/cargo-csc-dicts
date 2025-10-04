@@ -1,0 +1,8 @@
+{
+    "name": "Django",
+    "description": "List of Python Django Framework keywords.",
+    "paths": [
+        "src/legacy_terms.txt",
+        "src/django.txt"
+    ]
+}

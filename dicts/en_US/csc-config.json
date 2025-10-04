@@ -1,0 +1,10 @@
+{
+    "name": "English - American",
+    "description": "American English Dictionary",
+    "paths": [
+        "src/hyphenated-words.txt",
+        "src/contractions-and-possessives.txt",
+        "src/acronyms.txt",
+        "src/additional_words.txt"
+    ]
+}

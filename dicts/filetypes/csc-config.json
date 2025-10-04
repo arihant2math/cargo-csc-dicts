@@ -1,0 +1,7 @@
+{
+    "name": "File Types",
+    "description": "File types dictionary.",
+    "paths": [
+        "src/filetypes.txt"
+    ]
+}

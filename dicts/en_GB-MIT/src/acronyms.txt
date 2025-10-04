@@ -1,0 +1,5 @@
+# Acronyms, and Initialisms
+DNSSEC
+PKCS
+TOC
+TOCs

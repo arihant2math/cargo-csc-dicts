@@ -1,0 +1,8 @@
+{
+    "name": "Slovenian",
+    "description": "Slovenian dictionary.",
+    "paths": [
+        "src/README_sl_SI.txt",
+        "src/additional_words.txt"
+    ]
+}

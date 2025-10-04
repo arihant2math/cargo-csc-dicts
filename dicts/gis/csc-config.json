@@ -1,0 +1,7 @@
+{
+    "name": "GIS and PostGIS",
+    "description": "GIS and PostGIS dictionary.",
+    "paths": [
+        "src/gis.txt"
+    ]
+}

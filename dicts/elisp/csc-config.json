@@ -1,0 +1,7 @@
+{
+    "name": "Emacs Lisp",
+    "description": "Emacs Lisp dictionary.",
+    "paths": [
+        "src/elisp.txt"
+    ]
+}

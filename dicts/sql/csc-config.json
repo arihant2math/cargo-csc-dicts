@@ -1,0 +1,9 @@
+{
+    "name": "SQL",
+    "description": "SQL dictionary.",
+    "paths": [
+        "src/sql.txt",
+        "src/tsql.txt",
+        "src/common-terms.txt"
+    ]
+}

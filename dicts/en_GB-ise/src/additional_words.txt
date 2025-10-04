@@ -1,0 +1,34 @@
+# The CSpell en_GB-ise dictionary uses various dictionaries as a base.
+#
+# Additionally, CSpell adds some extra words to that dictionary that are very common.
+#
+# CAUTION: Only British English words should be added to this file.
+#
+# NOTE: If the words you want to add is valid for multiple English flavors,
+# please follow instructions in the README.md file in this folder.
+#
+# There should be one entry per line.
+#
+# cspell-tools: split
+'mongst
+'neath
+'strewth
+'struth
+'twas
+'twixt
+aren't
+couldn't
+didn't
+doesn't
+hadn't
+hasn't
+mayn't
+mightn't
+mustn't
+needn't
+oughtn't
+shan't
+shouldn't
+wasn't
+weren't
+wouldn't

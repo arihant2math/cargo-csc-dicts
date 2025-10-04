@@ -1,0 +1,7 @@
+{
+    "name": "LaTeX",
+    "description": "LaTeX cspell dictionary",
+    "paths": [
+        "src/latex.txt"
+    ]
+}

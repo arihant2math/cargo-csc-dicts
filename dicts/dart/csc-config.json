@@ -1,0 +1,10 @@
+{
+    "name": "Dart",
+    "description": "Dart dictionary.",
+    "paths": [
+        "src/dart-common.txt",
+        "src/dart-pubdev.txt",
+        "src/dart-wxyz.txt",
+        "src/dart.txt"
+    ]
+}

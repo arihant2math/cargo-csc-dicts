@@ -1,0 +1,7 @@
+{
+    "name": "Cities of Finland",
+    "description": "List of cities in Finland.",
+    "paths": [
+        "src/city-names-finland.txt"
+    ]
+}

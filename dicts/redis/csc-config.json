@@ -1,0 +1,7 @@
+{
+    "name": "Redis",
+    "description": "Redis dictionary.",
+    "paths": [
+        "src/redis-commands.txt"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Julia",
+    "description": "Julia function and keyword dictionary",
+    "paths": [
+        "src/julia-keywords.txt",
+        "src/julia.txt"
+    ]
+}

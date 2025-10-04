@@ -1,0 +1,7 @@
+{
+    "name": "Font Names",
+    "description": "Font names dictionary.",
+    "paths": [
+        "src/fonts.txt"
+    ]
+}

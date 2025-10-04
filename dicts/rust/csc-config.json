@@ -1,0 +1,7 @@
+{
+    "name": "Rust",
+    "description": "Rust Keyword Dictionary",
+    "paths": [
+        "src/rust.txt"
+    ]
+}

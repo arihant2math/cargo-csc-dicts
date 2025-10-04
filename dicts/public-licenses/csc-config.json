@@ -1,0 +1,7 @@
+{
+    "name": "Common Public Licenses",
+    "description": "Common Public Licenses dictionary.",
+    "paths": [
+        "src/additional-licenses.txt"
+    ]
+}

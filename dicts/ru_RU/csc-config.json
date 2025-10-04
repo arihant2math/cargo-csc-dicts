@@ -1,0 +1,7 @@
+{
+    "name": "Russian Dictionary (Combined)",
+    "description": "Russian Dictionary (Combined)",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

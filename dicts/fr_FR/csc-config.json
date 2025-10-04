@@ -1,0 +1,7 @@
+{
+    "name": "French Dictionary (France)",
+    "description": "French Dictionary (France)",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

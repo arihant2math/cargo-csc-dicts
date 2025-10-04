@@ -1,0 +1,9 @@
+{
+    "name": "English - Common Misspellings",
+    "description": "Common English misspellings dictionary.",
+    "paths": [
+        "src/dict-en.txt",
+        "src/dict-en-us.txt",
+        "src/dict-en-gb.txt"
+    ]
+}

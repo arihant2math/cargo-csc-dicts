@@ -1,0 +1,7 @@
+{
+    "name": "Elixir",
+    "description": "Elixir dictionary.",
+    "paths": [
+        "src/elixir.txt"
+    ]
+}

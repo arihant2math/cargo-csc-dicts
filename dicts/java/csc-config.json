@@ -1,0 +1,9 @@
+{
+    "name": "Java",
+    "description": "Java dictionary.",
+    "paths": [
+        "src/java.txt",
+        "src/java-terms.txt",
+        "src/additional-terms.txt"
+    ]
+}

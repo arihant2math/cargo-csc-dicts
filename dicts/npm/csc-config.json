@@ -1,0 +1,9 @@
+{
+    "name": "NPM",
+    "description": "Dictionary of Common Javascript Packages.",
+    "paths": [
+        "src/npm.txt",
+        "src/tools.txt",
+        "src/npm-keywords.txt"
+    ]
+}

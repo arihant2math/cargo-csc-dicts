@@ -1,0 +1,7 @@
+{
+    "name": "Vim",
+    "description": "Vim developers dictionary.",
+    "paths": [
+        "src/vim.txt"
+    ]
+}

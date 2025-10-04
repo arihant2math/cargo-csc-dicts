@@ -1,0 +1,9 @@
+{
+    "name": "PHP",
+    "description": "Php dictionary.",
+    "paths": [
+        "src/allowed-terms.txt",
+        "src/php.txt",
+        "src/php-functions.txt"
+    ]
+}

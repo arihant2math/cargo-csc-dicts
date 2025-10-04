@@ -1,0 +1,8 @@
+{
+    "name": "HTML",
+    "description": "HTML dictionary.",
+    "paths": [
+        "src/svg.txt",
+        "src/html.txt"
+    ]
+}

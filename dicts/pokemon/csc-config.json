@@ -1,0 +1,7 @@
+{
+    "name": "Pok\u00e9mon",
+    "description": "Pok\u00e9mon dictionary.",
+    "paths": [
+        "src/pokemon.txt"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "R",
+    "description": "R dictionary.",
+    "paths": [
+        "src/r.txt"
+    ]
+}

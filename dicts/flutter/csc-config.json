@@ -1,0 +1,7 @@
+{
+    "name": "Flutter",
+    "description": "Flutter dictionary.",
+    "paths": [
+        "src/flutter.txt"
+    ]
+}

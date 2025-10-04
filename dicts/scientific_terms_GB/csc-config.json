@@ -1,0 +1,8 @@
+{
+    "name": "Scientific Terms GB",
+    "description": "Scientific Terms GB dictionary.",
+    "paths": [
+        "src/custom_scientific_GB.dic.txt",
+        "src/additional_words.txt"
+    ]
+}

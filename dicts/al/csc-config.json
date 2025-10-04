@@ -1,0 +1,9 @@
+{
+    "name": "AL",
+    "description": "AL (Microsoft Business Central) Dictionary",
+    "paths": [
+        "src/bc.txt",
+        "src/al.txt",
+        "src/xmldoc.txt"
+    ]
+}

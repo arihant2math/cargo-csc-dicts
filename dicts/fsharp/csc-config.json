@@ -1,0 +1,8 @@
+{
+    "name": "F#",
+    "description": "F# dictionary.",
+    "paths": [
+        "src/fsharp.txt",
+        "src/from-fsharp-src.txt"
+    ]
+}

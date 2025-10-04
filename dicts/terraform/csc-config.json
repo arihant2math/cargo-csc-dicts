@@ -1,0 +1,7 @@
+{
+    "name": "Terraform",
+    "description": "Terraform dictionary.",
+    "paths": [
+        "src/terraform.txt"
+    ]
+}

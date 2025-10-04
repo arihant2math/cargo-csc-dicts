@@ -1,0 +1,7 @@
+{
+    "name": "Company names",
+    "description": "Company names dictionary.",
+    "paths": [
+        "src/companies.txt"
+    ]
+}

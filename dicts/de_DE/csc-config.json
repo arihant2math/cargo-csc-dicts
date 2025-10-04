@@ -1,0 +1,8 @@
+{
+    "name": "German Dictionary",
+    "description": "German (de-DE) Dictionary.",
+    "paths": [
+        "src/German_de_DE.txt",
+        "src/additional_words.txt"
+    ]
+}

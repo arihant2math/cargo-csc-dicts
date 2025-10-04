@@ -1,0 +1,9 @@
+{
+    "name": "Greek",
+    "description": "Greek dictionary.",
+    "paths": [
+        "src/Greek.ALLCAPS.txt",
+        "src/additional_words.txt",
+        "src/Greek.txt"
+    ]
+}

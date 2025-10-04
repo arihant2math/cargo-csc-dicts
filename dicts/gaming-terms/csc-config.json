@@ -1,0 +1,12 @@
+{
+    "name": "Gaming",
+    "description": "Gaming dictionary.",
+    "paths": [
+        "src/gaming-terms.txt",
+        "src/gdshader.txt",
+        "src/unity.txt",
+        "src/gdscript.txt",
+        "src/godot.txt",
+        "src/game-development.txt"
+    ]
+}

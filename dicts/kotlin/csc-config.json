@@ -1,0 +1,7 @@
+{
+    "name": "Kotlin",
+    "description": "Kotlin dictionary.",
+    "paths": [
+        "src/kotlin.txt"
+    ]
+}

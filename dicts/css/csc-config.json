@@ -1,0 +1,7 @@
+{
+    "name": "CSS",
+    "description": "CSS dictionary.",
+    "paths": [
+        "src/css.txt"
+    ]
+}

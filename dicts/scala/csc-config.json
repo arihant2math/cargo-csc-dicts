@@ -1,0 +1,8 @@
+{
+    "name": "Scala",
+    "description": "Scala dictionary.",
+    "paths": [
+        "src/scala.txt",
+        "src/allowed-terms.txt"
+    ]
+}

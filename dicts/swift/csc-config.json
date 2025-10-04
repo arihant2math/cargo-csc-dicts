@@ -1,0 +1,7 @@
+{
+    "name": "Swift",
+    "description": "Swift dictionary.",
+    "paths": [
+        "src/swift.txt"
+    ]
+}

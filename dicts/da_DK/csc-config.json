@@ -1,0 +1,7 @@
+{
+    "name": "Danish Dictionary",
+    "description": "Danish (da-DK) Dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "C/C++",
+    "description": "C/C++ Keywords and common library functions.",
+    "paths": [
+        "src/compiler-gcc.txt",
+        "src/lang-keywords.txt",
+        "src/cpp0.txt",
+        "src/cpp1.txt",
+        "src/compiler-clang-attributes.txt",
+        "src/cpp3.txt",
+        "src/cpp2.txt",
+        "src/stdlib-cpp.txt",
+        "src/cpp.txt",
+        "src/additional-terms.txt",
+        "src/allowed-terms.txt",
+        "src/template-strings.txt",
+        "src/cpp-legacy-words.txt",
+        "src/stdlib-c.txt",
+        "src/compiler-msvc.txt",
+        "src/people.txt",
+        "src/lang-jargon.txt",
+        "src/compound-words.txt",
+        "src/stdlib-cerrno.txt",
+        "src/ecosystem.txt",
+        "src/stdlib-cmath.txt"
+    ]
+}

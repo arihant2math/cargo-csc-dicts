@@ -1,0 +1,7 @@
+{
+    "name": "AWS",
+    "description": "AWS dictionary.",
+    "paths": [
+        "src/aws.txt"
+    ]
+}

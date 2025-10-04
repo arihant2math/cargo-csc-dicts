@@ -1,0 +1,7 @@
+{
+    "name": "English - British (-ise)",
+    "description": "British English (-ise) Dictionary",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

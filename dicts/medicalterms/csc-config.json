@@ -1,0 +1,7 @@
+{
+    "name": "Medical terms",
+    "description": "Medical Terms Dictionary",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Python",
+    "description": "Python Keyword Dictionary",
+    "paths": [
+        "src/common_packages.txt",
+        "src/legacy.txt",
+        "src/data_science.txt",
+        "src/additional_words.txt"
+    ]
+}

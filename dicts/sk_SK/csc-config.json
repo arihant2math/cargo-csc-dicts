@@ -1,0 +1,7 @@
+{
+    "name": "Slovak",
+    "description": "Slovak dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

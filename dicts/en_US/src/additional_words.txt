@@ -1,0 +1,61 @@
+# The CSpell en_GB-ise dictionary uses various dictionaries as a base.
+#
+# Additionally, CSpell adds some extra words to that dictionary that are very common.
+#
+# CAUTION: Only American English words should be added to this file.
+#
+# NOTE: If the words you want to add is valid for multiple English flavors,
+# please follow instructions in the README.md file in this folder.
+#
+# There should be one entry per line.
+#
+# cspell-tools: split
+anthropomorphization
+backtick
+backticks
+blazingly
+comms
+curbside
+déjà
+discretization
+discretize
+discretized
+disincentivize
+disincentivized
+disincentivizes
+disincentivizing
+draggable
+drive through
+drive thru
+drive-through
+drive-thru
+extremum
+flyout
+infographic
+Kyiv
+multiline
+naïve
+negatable
+Orléans
+pangram
+rasterize
+rebrand
+rebranding
+retraumatization
+retraumatize
+retraumatized
+retraumatizes
+retraumatizing
+teleconverter
+ungrouped
+unmaneuverable
+unparsable
+unpatched
+unsecure
+unsecured
+unsecures
+unsecuring
+upscaled
+vendored
+vendoring
+xxxl

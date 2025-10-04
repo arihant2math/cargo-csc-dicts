@@ -1,0 +1,7 @@
+{
+    "name": "Makefile",
+    "description": "Makefile dictionary.",
+    "paths": [
+        "src/makefile.txt"
+    ]
+}

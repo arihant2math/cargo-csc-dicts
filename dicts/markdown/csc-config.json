@@ -1,0 +1,7 @@
+{
+    "name": "Markdown",
+    "description": "Markdown dictionary.",
+    "paths": [
+        "src/markdown.txt"
+    ]
+}

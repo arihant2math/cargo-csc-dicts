@@ -1,0 +1,8 @@
+{
+    "name": "PowerShell",
+    "description": "PowerShell Keyword Dictionary",
+    "paths": [
+        "src/powershell.txt",
+        "src/allowed-terms.txt"
+    ]
+}

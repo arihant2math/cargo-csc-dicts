@@ -1,0 +1,7 @@
+{
+    "name": "Win32",
+    "description": "Win32 dictionary.",
+    "paths": [
+        "src/additional-terms.txt"
+    ]
+}

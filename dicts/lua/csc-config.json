@@ -1,0 +1,7 @@
+{
+    "name": "Lua",
+    "description": "Lua dictionary.",
+    "paths": [
+        "src/lua.txt"
+    ]
+}

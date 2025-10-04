@@ -1,0 +1,10 @@
+{
+    "name": "English - British (Limited)",
+    "description": "British English Dictionary with MIT License",
+    "paths": [
+        "src/names.txt",
+        "src/acronyms.txt",
+        "src/additional_words.txt",
+        "src/block_words.txt"
+    ]
+}

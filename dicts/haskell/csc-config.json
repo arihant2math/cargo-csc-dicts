@@ -1,0 +1,7 @@
+{
+    "name": "Haskell",
+    "description": "Haskell dictionary.",
+    "paths": [
+        "src/haskell.txt"
+    ]
+}

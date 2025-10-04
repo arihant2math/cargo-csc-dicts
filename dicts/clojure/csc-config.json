@@ -1,0 +1,7 @@
+{
+    "name": "Clojure",
+    "description": "Clojure dictionary.",
+    "paths": [
+        "src/clojure.txt"
+    ]
+}

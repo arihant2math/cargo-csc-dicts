@@ -1,0 +1,9 @@
+{
+    "name": ".Net",
+    "description": ".Net keywords Dictionary.",
+    "paths": [
+        "src/dotnet-no-split.txt",
+        "src/allowed-terms.txt",
+        "src/dotnet.txt"
+    ]
+}

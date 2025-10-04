@@ -1,0 +1,10 @@
+{
+    "name": "Go Language",
+    "description": "Go Language Dictionary",
+    "paths": [
+        "src/additional-terms.txt",
+        "src/allowed-terms.txt",
+        "src/go.txt",
+        "src/go-lib.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Google Cloud",
+    "description": "Google Cloud Development Dictionary.",
+    "paths": [
+        "src/google.txt",
+        "src/misc.txt",
+        "src/legacy.txt"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Data Science",
+    "description": "Data Science dictionary.",
+    "paths": [
+        "src/data-science-tools.txt",
+        "src/data-science-terms.txt",
+        "src/data-science-models.txt"
+    ]
+}

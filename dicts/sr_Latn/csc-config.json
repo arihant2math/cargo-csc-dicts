@@ -1,0 +1,7 @@
+{
+    "name": "Serbian (Latin)",
+    "description": "Serbian (Latin) dictionary.",
+    "paths": [
+        "src/additional_tokens.txt"
+    ]
+}

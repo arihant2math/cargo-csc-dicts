@@ -1,0 +1,7 @@
+{
+    "name": "Austrian German Dictionary",
+    "description": "Austrian German (de-AT) Dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

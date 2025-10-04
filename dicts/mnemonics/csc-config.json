@@ -1,0 +1,7 @@
+{
+    "name": "Mnemonics",
+    "description": "i86 Mnemonics dictionary for cspell",
+    "paths": [
+        "src/mnemonics.txt"
+    ]
+}

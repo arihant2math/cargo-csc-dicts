@@ -1,0 +1,8 @@
+{
+    "name": "Fullstack",
+    "description": "Common words encountered during fullstack development",
+    "paths": [
+        "src/tools-and-services.txt",
+        "src/fullstack.txt"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "People Names",
+    "description": "People Names dictionary.",
+    "paths": [
+        "src/names.txt",
+        "src/us-census.txt"
+    ]
+}

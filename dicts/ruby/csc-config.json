@@ -1,0 +1,8 @@
+{
+    "name": "Ruby",
+    "description": "For ruby and ruby on rails",
+    "paths": [
+        "src/ruby.txt",
+        "src/allowed-terms.txt"
+    ]
+}

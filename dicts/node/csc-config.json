@@ -1,0 +1,10 @@
+{
+    "name": "Node.js",
+    "description": "Node.js dictionary.",
+    "paths": [
+        "src/split_words.txt",
+        "src/node.txt",
+        "src/node-old.txt",
+        "src/additional_words.txt"
+    ]
+}

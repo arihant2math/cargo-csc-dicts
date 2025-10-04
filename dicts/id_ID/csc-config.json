@@ -1,0 +1,7 @@
+{
+    "name": "Indonesia",
+    "description": "Indonesia dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}

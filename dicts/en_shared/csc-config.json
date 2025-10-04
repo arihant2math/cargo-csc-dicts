@@ -1,0 +1,10 @@
+{
+    "name": "English - Shared",
+    "description": "English words shared between the various English dictionaries.",
+    "paths": [
+        "src/shared-additional-words.txt",
+        "src/acronyms.txt",
+        "src/shared-additional-words-ise.txt",
+        "src/shared-additional-words-ize.txt"
+    ]
+}

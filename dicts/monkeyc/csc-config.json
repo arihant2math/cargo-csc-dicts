@@ -1,0 +1,7 @@
+{
+    "name": "Monkey C",
+    "description": "Monkey C dictionary.",
+    "paths": [
+        "src/monkeyc_keywords.txt"
+    ]
+}

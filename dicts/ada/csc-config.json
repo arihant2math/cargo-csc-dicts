@@ -1,0 +1,7 @@
+{
+    "name": "Ada",
+    "description": "Ada Language Dictionary",
+    "paths": [
+        "src/ada.txt"
+    ]
+}

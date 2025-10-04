@@ -1,0 +1,10 @@
+{
+    "name": "TypeScript/JavaScript",
+    "description": "TypeScript and JavaScript dictionary.",
+    "paths": [
+        "src/domGlobalEvents.txt",
+        "src/domGlobalEventHandlers.txt",
+        "src/ecosystem-terms.txt",
+        "src/typescript.txt"
+    ]
+}

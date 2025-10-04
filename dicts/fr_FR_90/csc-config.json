@@ -1,0 +1,7 @@
+{
+    "name": "Fran\u00e7ais R\u00e9forme 1990",
+    "description": "Fran\u00e7ais R\u00e9forme 1990 dictionary.",
+    "paths": [
+        "src/additional_words.txt"
+    ]
+}
